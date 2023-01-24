@@ -1,2 +1,2 @@
 # git-tutorial
-tatvasoft tutorial for git and github
+tatvasoft tutorial for git and github.
